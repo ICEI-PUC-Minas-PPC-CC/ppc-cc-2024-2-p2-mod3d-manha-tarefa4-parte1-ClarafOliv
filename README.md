@@ -1,19 +1,16 @@
-# TÍTULO DO PROJETO
+# Personagem de Little Nightmares (nome)
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelagem 3D`
+`2024 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Clara Freitas de Oliveira;
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado;
 
 # Documentação
 
