@@ -30,9 +30,9 @@
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+# Código 
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src/modelagem.md"> Código .blend </a></li>
 
 # Apresentação
 
