@@ -20,6 +20,6 @@
 
 <li><a href="presentation/apresentação.md"> Apresentação do modelo </a></li>
 
-<h3> Código </h3>
+<h3> Arquivo com a modelagem </h3>
 
-<li><a href="src/modelagem.md"> Código .blend </a></li>
+<li><a href="src/modelagem.md"> Arquivo .blend </a></li>
