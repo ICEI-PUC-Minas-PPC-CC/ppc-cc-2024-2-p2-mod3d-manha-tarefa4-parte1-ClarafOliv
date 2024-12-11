@@ -1,4 +1,4 @@
-<h3> Tarefa 4 - Aplicação Gráfica 3D </h3>
+<h3> Tarefa 4 - Modelo 3D </h3>
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem 3D`
